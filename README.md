@@ -1,1 +1,11 @@
-# 3d-flipping-card
+## 3d-flipping-card using only HTML & CSS
+
+<div align="center">
+  <h1>
+    <a href="https://3d-flipping-card.vercel.app" class="btn-primary" target="_blank">Preview Project 🚀</a>
+  </h1>
+  <br/><br/>
+  <p align="center">
+    <img src="https://cdn.discordapp.com/attachments/1099035910387011685/1156459615119224922/Untitled_design.gif?ex=65150c72&is=6513baf2&hm=6f659a6c4352e8e6024d708f8a2d3d440ef207b55281b1af2f4cb6ae84846a0e" alt="Image Clip Animation" />
+  </p>
+</div>
